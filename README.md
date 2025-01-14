@@ -12,4 +12,4 @@ A basic Tic tac toe game bulit using C++, where players can play with each other
 2. Set up graphic.h in your development environment
 ### Step to run the program
 1. Clone the repository:
-git clone 
+git clone https://github.com/delicruz/Tic-tac-toe.git
