@@ -19,12 +19,15 @@ cd Tic-tac-toe
 cd Home
 cd src
 3. Access the project code
-code fileName.cpp
+code fileName.cpp (replace fileName by the name of the file you want to access)
 4. Compile the program
 5. Run the program
 ## Contribution
-1. git checkout -b featureName
-2. git commit -m "Add new featureName"
-3. git push --setup-upstream origin featureName
+1. Create new branch for your feature
+git checkout -b featureName
+2. Create a commit about adding new feature
+git commit -m "Add new featureName"
+3. Create a branch on git hub and push the code from local
+git push --setup-upstream origin featureName
 4. Open a pull request. Choose the base branch and the new branch of your feature. Add title and description, submit the request
 
