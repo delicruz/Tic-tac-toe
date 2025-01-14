@@ -26,7 +26,5 @@ code fileName.cpp
 1. git checkout -b featureName
 2. git commit -m "Add new featureName"
 3. git push --setup-upstream origin featureName
-4. Open a pull request
-Choose the base branch and the new branch of your feature
-Add title and description, submit the request
+4. Open a pull request. Choose the base branch and the new branch of your feature. Add title and description, submit the request
 
