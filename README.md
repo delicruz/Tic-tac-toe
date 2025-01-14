@@ -14,7 +14,7 @@ A basic Tic tac toe game bulit using C++, where players can play with each other
 ### Step to run the program
 1. Clone the repository:
 git clone https://github.com/delicruz/Tic-tac-toe.git
-2. Navigate to the project folder
+2. Navigate to the project folder: 
 cd Tic-tac-toe
 cd Home
 cd src
